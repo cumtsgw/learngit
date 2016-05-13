@@ -6,3 +6,5 @@ My stupid boss still prefers SVN.
 Creating a new branch is quick and simple.
 add a branch dev.
 Git is a free software ...
+
+i have modified file by myself.
